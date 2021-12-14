@@ -9,6 +9,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.Select;
 
 public class FaceBookSelect {
+	
+	int a = 3;
 
 	public static void main(String[] args) throws InterruptedException {
 
